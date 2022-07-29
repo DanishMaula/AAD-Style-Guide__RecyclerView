@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RecyclerViewTheme</string>
+    <string name="first_recyclerview">First Recyclerview</string>
+    <string name="second_recyclerview">Second RecyclerView</string>
+
+    <string-array name="animallist">
+        <item>Gajah</item>
+        <item>Kadal</item>
+        <item>Babi</item>
+        <item>Kodok</item>
+        <item>T-Rex</item>
+        <item>Bebek</item>
+        <item>Entok</item>
+    </string-array>
+</resources>
