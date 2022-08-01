@@ -6,6 +6,7 @@ import android.os.Bundle
 import com.raywenderlich.android.recyclerviewtheme.databinding.ActivityMainBinding
 import com.raywenderlich.android.recyclerviewtheme.firstrecyclerview.FirstActivity
 import com.raywenderlich.android.recyclerviewtheme.secondrecyclerview.SecondActivity
+import com.raywenderlich.android.recyclerviewtheme.thirdrecyclerview.ThirdctiviityActivity
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding : ActivityMainBinding
@@ -25,7 +26,8 @@ class MainActivity : AppCompatActivity() {
 
         }
 
-
-
+        binding.btnThirdRecyclerView.setOnClickListener{
+            startActivity(Intent(this, ThirdctiviityActivity::class.java))
+        }
     }
 }
