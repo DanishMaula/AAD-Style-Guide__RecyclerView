@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Danish/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/activity_first.xml" value="0.25" />
+        <entry key="..\:/Users/Danish/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/activity_fourth.xml" value="0.25" />
         <entry key="..\:/Users/Danish/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
         <entry key="..\:/Users/Danish/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/activity_second.xml" value="0.2359375" />
         <entry key="..\:/Users/Danish/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/activity_thirdctiviity.xml" value="0.25" />
@@ -11,7 +12,9 @@
         <entry key="..\:/Users/Danish/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/list_hewan.xml" value="0.29075425790754256" />
         <entry key="..\:/Users/Danish/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/row_hewan.xml" value="0.24895833333333334" />
         <entry key="..\:/Users/Danish/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/row_item_animal.xml" value="0.25" />
+        <entry key="..\:/Users/Danish/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/row_item_masak.xml" value="0.18019559902200488" />
         <entry key="..\:/Users/Danish/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/row_item_pahlawan.xml" value="0.25" />
+        <entry key="..\:/Users/Danish/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/row_item_recipe.xml" value="0.24895833333333334" />
       </map>
     </option>
   </component>

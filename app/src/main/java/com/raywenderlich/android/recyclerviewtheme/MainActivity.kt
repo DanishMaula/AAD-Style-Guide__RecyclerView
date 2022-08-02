@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.raywenderlich.android.recyclerviewtheme.databinding.ActivityMainBinding
 import com.raywenderlich.android.recyclerviewtheme.firstrecyclerview.FirstActivity
+import com.raywenderlich.android.recyclerviewtheme.fourthrecyclerview.FourthActivity
 import com.raywenderlich.android.recyclerviewtheme.secondrecyclerview.SecondActivity
 import com.raywenderlich.android.recyclerviewtheme.thirdrecyclerview.ThirdctiviityActivity
 
@@ -28,6 +29,9 @@ class MainActivity : AppCompatActivity() {
 
         binding.btnThirdRecyclerView.setOnClickListener{
             startActivity(Intent(this, ThirdctiviityActivity::class.java))
+        }
+        binding.btnFourthRecyclerView.setOnClickListener{
+            startActivity(Intent(this, FourthActivity::class.java))
         }
     }
 }

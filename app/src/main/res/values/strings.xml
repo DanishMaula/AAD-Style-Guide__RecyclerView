@@ -3,6 +3,7 @@
     <string name="first_recyclerview">First Recyclerview</string>
     <string name="second_recyclerview">Second RecyclerView</string>
     <string name="third_recyclerview">third recyclerview</string>
+    <string name="fourth_recyclerview">fourth_recyclerview</string>
 
     <string-array name="animallist">
         <item>Gajah</item>

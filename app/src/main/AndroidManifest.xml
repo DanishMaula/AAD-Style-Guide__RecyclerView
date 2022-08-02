@@ -16,6 +16,9 @@
         android:theme="@style/Theme.RecyclerViewTheme"
         tools:targetApi="31">
         <activity
+            android:name=".fourthrecyclerview.FourthActivity"
+            android:exported="false" />
+        <activity
             android:name=".thirdrecyclerview.ThirdctiviityActivity"
             android:exported="false" />
         <activity
